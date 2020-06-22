@@ -6,7 +6,7 @@ and community-driven long-term maintenance of packages & libraries based on the 
 Many of the packages found in the Laminas-Commons repositories are former ZF-Commons packages
 that were migrated to the Laminas Project framework.
 
-This is not an official Laminas Project organisation.  Issues and question related to the Laminas MVC and components 
+This is not an official Laminas Project organisation.  Issues and questions related to the Laminas MVC and components 
 should be addressed to the Laminas Project organisation.
 
 Laminas is a trademark of the Laminas Project a Series of LF Projects, LLC.
