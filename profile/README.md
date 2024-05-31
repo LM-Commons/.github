@@ -23,9 +23,3 @@ This is not an official Laminas Project organization.  Issues and questions rela
 should be addressed to the Laminas Project organisation.
 
 Laminas is a trademark of the Laminas Project a Series of LF Projects, LLC.
-
-
-This is not an official Laminas Project organization.  Issues and questions related to the Laminas MVC, Components and Mezzio
-should be addressed to the Laminas Project organisation.
-
-Laminas is a trademark of the Laminas Project a Series of LF Projects, LLC.
