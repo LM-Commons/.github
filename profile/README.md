@@ -20,6 +20,6 @@ Official documentation can be found at [lm-commons.github.io](https://lm-commons
 | [LmcAdmin](https://github.com/lm-commons/lmcadmin)   | ![Packagist Version](https://img.shields.io/packagist/v/lm-commons/lmc-admin?label=%20)    | ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Flm-commons%2Flmcadmin%2Fproperties%2Fvalues&query=%24%5B%3A1%5D.value&label=%20)   |
 
 This is not an official Laminas Project organization.  Issues and questions related to the Laminas MVC and components
-should be addressed to the Laminas Project organisation.
+should be addressed to the [Laminas Project](https://github.com/laminas) organisation.
 
-Laminas is a trademark of the Laminas Project a Series of LF Projects, LLC.
+Laminas, API Tools and Mezzio are trademarks of the Laminas Project a Series of LF Projects, LLC.
