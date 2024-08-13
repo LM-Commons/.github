@@ -36,7 +36,7 @@ We are open to integrate new packages into LM-Commons. Please submit a proposal 
 
 > [!IMPORTANT]
 > #### Disclaimer
->This is not an official Laminas Project organization.  Issues and questions related to the Laminas MVC and components
+>This is not an official Laminas Project organization.  Issues and questions related to the Laminas MVC, components and Mezzio
 should be addressed to the [Laminas Project](https://github.com/laminas) organisation.<br />
 > <br />
 >Laminas, API Tools and Mezzio are trademarks of the Laminas Project a Series of LF Projects, LLC.
