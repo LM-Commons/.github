@@ -1,3 +1,10 @@
-# LM-Commons 
+# LM-Commons Organization Templates
 
-Profile page for LM-Commons
+This repository contains documentation for the LM-Commons organization:
+
+- 
+
+This repository contains templates used by all (or most) repositories in this
+organization.
+
+- 
