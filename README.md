@@ -10,7 +10,7 @@ organization:
 - Community Health Files:
   - Backwards Compatibility Break Template (to come)
   - Bug Template (to come)
-  - Contributing Guidelines (to come)
+  - [Contributing Guidelines](CONTRIBUTING.md)
   - Feature Request Template (to come)
   - Getting Support (to come)
   - Pull Request Template (to come)
