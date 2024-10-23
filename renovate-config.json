@@ -1,0 +1,43 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "description": "Default configuration for repositories in the LM-Commons organisation",
+    "extends": [
+        ":dependencyDashboard",
+        ":ignoreModulesAndTests",
+        ":automergeMinor",
+        ":automergeBranch",
+        ":rebaseStalePrs",
+        ":semanticCommitsDisabled",
+        ":separateMajorReleases",
+        ":combinePatchMinorReleases",
+        ":enableVulnerabilityAlerts",
+        ":timezone(UTC)",
+        ":gitSignOff",
+        ":label(renovate)",
+        "group:allNonMajor"
+    ],
+    "commitBodyTable": true,
+    "lockFileMaintenance": {"enabled": true, "extends": ["schedule:weekly"]},
+    "platformAutomerge": true,
+    "prFooter": "[Read more information](https://github.com/lm-commons/.github/blob/main/RENOVATE.md) about the use of [Renovate Bot](https://github.com/renovatebot/renovate) within Laminas.",
+    "rangeStrategy": "replace",
+    "rollbackPrs": true,
+    "packageRules": [
+        {"matchDepTypes": ["require"], "rangeStrategy": "widen"},
+        {"matchPackagePatterns": ["^lm-commons/"], "groupSlug": "lm-commons", "groupName": "LM-Commons packages"},
+        {"matchPackagePatterns": ["^laminas/"], "groupSlug": "laminas", "groupName": "Laminas packages"},
+        {"matchPackagePatterns": ["^laminas-api-tools/"], "groupSlug": "laminas-api-tools", "groupName": "Laminas API Tools packages"},
+        {"matchPackagePatterns": ["^mezzio/"], "groupSlug": "mezzio", "groupName": "Mezzio packages"},
+        {
+            "matchPackageNames": ["php"],
+            "allowedVersions": "^8.0",
+            "extends": [":automergeDisabled", ":automergePr", ":label(Awaiting Maintainer Response)"],
+            "ignoreUnstable": false,
+            "groupName": "PHP"
+        }
+    ],
+    "vulnerabilityAlerts": {
+        "extends": [":automergeDisabled", ":automergePr", ":labels(Awaiting Maintainer Response, security)"],
+        "rangeStrategy": "bump"
+    }
+}
