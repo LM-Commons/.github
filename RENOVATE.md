@@ -112,7 +112,7 @@ From https://docs.renovatebot.com/configuration-options/#vulnerabilityalerts:
 "commitBodyTable": true,
 "lockFileMaintenance": {"enabled": true, "extends": ["schedule:weekly"]},
 "platformAutomerge": true,
-"prFooter": "[Read more information](https://github.com/lm-commoms/.github/blob/main/RENOVATE.md) about the use of [Renovate Bot](https://github.com/renovatebot/renovate) within LM-Commons.",
+"prFooter": "[Read more information](https://github.com/lm-commoms/.github/blob/master/RENOVATE.md) about the use of [Renovate Bot](https://github.com/renovatebot/renovate) within LM-Commons.",
 "rangeStrategy": "replace",
 "rollbackPrs": true,
 "vulnerabilityAlerts": {
