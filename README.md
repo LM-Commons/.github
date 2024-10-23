@@ -18,6 +18,7 @@ organization:
 <!--  - [Security Policy](SECURITY.md) -->
 - Shared Tool Configurations:
   - to come
-<!--  - [Renovate](RENOVATE.md) -->
+- [Renovate](RENOVATE.md)
+  - Common Renovate presets (inspired from Laminas Renovate presets) 
 
 <!--  - [Code of Conduct](CODE_OF_CONDUCT.md) -->
