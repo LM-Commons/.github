@@ -171,6 +171,7 @@ versions it's allowed to upgrade to, whilst
 [ignoreUnstable](https://docs.renovatebot.com/configuration-options/#ignoreunstable) allows renovate to propose updates
 for unreleased PHP versions (e.g. 8.2.0-rc1).
 
+<!--
 ## Security Updates Only Configuration
 
 Extending the default, the file `renovate-config-security-updates-only.json` is made specifically for use in Laminas
@@ -190,6 +191,7 @@ above.
 - **[:maintainLockFilesDisabled](https://docs.renovatebot.com/presets-default/#maintainlockfilesdisabled)** - Only
 update lock files when `composer.json` is updated.
 
+-->
 ### Package Rules
 
 ```json
