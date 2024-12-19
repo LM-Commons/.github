@@ -17,6 +17,7 @@ patch; you can do this by providing either the --signoff or -s flag when using
 https://developercertificate.org for details.
 -->
 
+<!-- Answer yes OR no in the table below -->
 |    Q          | A      |
 |-------------- |--------|
 | Documentation | yes/no |
