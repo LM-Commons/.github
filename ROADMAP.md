@@ -27,27 +27,31 @@ For example, LmcRbac shall use the `Lmc/Rbac` namespace. LmcRbacMvc shall use `L
 
 ## Starter kits
 
-Started kits shall be provided that start from the Laminas Skeleton and from the Mezzio Skeleton that will incorporate
+Started kits shall be provided that start from the Mezzio Skeleton that will incorporate
 the Lmc components to provide a starting point the user management, access control and admin modules.
 
 This is work in progress
 
 ## LmcUser and user management
 
-Roadmap to come
+LmcUser for Laminas MVC is now in Maintenance-only mode and no further features will be developed. This also applies to LmcUserDoctrineORM and LmcUserMongoODM.
+
+A LmcUser version for Mezzio will be developed.
 
 ## LmcRbac and LmcRbacMvc access control
 
-Roadmap to come
+LmcRbacMvc and LmcRbacMvcDeveloperTools for Laminas MVC are now in Maintenance-only mode and no further features will be developed. 
 
 ## LmcMail
 
-Roadmap to come
+This package is abandoned. It is a MVC based package with little adoption by users which also relies on the discontinued laminas-mail.
 
 ## LmcCors
 
-Roadmap to come
+LmcCors for Laminas MVC is now in Maintenance-only mode and no further features will be developed. 
 
 ## LmcAdmin
 
-Roadmap to come
+LmcAdmin for Laminas MVC is now in Maintenance-only mode and no further features will be developed.
+
+A LmcAdmin package for Mezzio is likely to be developed.
