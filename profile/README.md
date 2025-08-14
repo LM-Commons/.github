@@ -8,6 +8,12 @@ that were migrated to the Laminas Project framework.
 
 Official documentation can be found at [lm-commons.github.io](https://lm-commons.github.io)
 
+### Announcements
+
+#### Sunsetting of LMC MVC based components
+
+With the recent announcement from the Laminas Project to sunset the Laminas MVC framework, the LMC components that are related to MVC will be sunset as well. Details can be found in this [blog](https://lm-commons.github.io/blog/MVC-maintenance-only/) post.
+
 ### Packages
 
 | Package    | Stable Version                                                                             | Maintenance Status                                                                                                                                                                            |
