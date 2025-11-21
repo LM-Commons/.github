@@ -24,6 +24,7 @@ With the recent announcement from the Laminas Project to sunset the Laminas MVC 
 | [LmcCors](https://github.com/lm-commons/lmccors)    | ![Packagist Version](https://img.shields.io/packagist/v/lm-commons/lmc-cors?label=%20)     | ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Flm-commons%2Flmccors%2Fproperties%2Fvalues&query=%24%5B%3A1%5D.value&label=%20)    |
 | [LmcMail](https://github.com/lm-commons/lmcmail)    | ![Packagist Version](https://img.shields.io/packagist/v/lm-commons/lmc-mail?label=%20)     | ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Flm-commons%2Flmcmail%2Fproperties%2Fvalues&query=%24%5B%3A1%5D.value&label=%20)    |
 | [LmcAdmin](https://github.com/lm-commons/lmcadmin)   | ![Packagist Version](https://img.shields.io/packagist/v/lm-commons/lmc-admin?label=%20)    | ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Flm-commons%2Flmcadmin%2Fproperties%2Fvalues&query=%24%5B%3A1%5D.value&label=%20)   |
+| [lmc-authenticate](https://github.com/lm-commons/lmc-authenticate)   | ![Packagist Version](https://img.shields.io/packagist/v/lm-commons/lmc-authentication?label=%20)    | ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Flm-commons%2Flmc-authentication%2Fproperties%2Fvalues&query=%24%5B%3A1%5D.value&label=%20)   |
 
 ### Roadmap
 
