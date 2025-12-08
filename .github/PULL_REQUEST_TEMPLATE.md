@@ -17,15 +17,15 @@ patch; you can do this by providing either the --signoff or -s flag when using
 https://developercertificate.org for details.
 -->
 
-<!-- Answer yes OR no in the table below -->
+<!-- Update the answer to yes in the table below to indicate what type of changes are brought by the PR-->
 |    Q          | A      |
 |-------------- |--------|
-| Documentation | yes/no |
-| Bugfix        | yes/no |
-| BC Break      | yes/no |
-| New Feature   | yes/no |
-| RFC           | yes/no |
-| QA            | yes/no |
+| Documentation | no |
+| Bugfix        | no |
+| BC Break      | no |
+| New Feature   | no |
+| RFC           | no |
+| QA            | no |
 
 ### Description
 
