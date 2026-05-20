@@ -40,7 +40,10 @@ If you have a question or a comment on the Roadmap, please create an [issue](htt
 
 We are open to integrate new packages into LM-Commons. Please submit a proposal as an issue [here](https://github.com/LM-Commons/.github/issues).
 
+### Contributing and Support
 
+- If you need support with the project, read [the support documentation](https://github.com/lm-commons/.github/blob/main/SUPPORT.md).
+- If you wish to contribute to the project, read the [contributing guidelines](https://github.com/lm-commons/.github/blob/main/CONTRIBUTING.md).
 
 > [!IMPORTANT]
 > #### Disclaimer
